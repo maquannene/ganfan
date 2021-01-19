@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'Site Name',
+  title: '干（gàn）饭',
   mode: 'site',
   base: '/ganfan',
   publicPath: '/ganfan/',
