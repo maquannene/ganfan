@@ -34,7 +34,7 @@ order: 2
 
 ## 4、我的作品
 
-<img src="https://img.alicdn.com/imgextra/i2/O1CN01XQlotG1EsuFfu9o6Z_!!6000000000408-0-tps-4032-3024.jpg" width="1024"/>
+<img src="https://img.alicdn.com/imgextra/i2/O1CN01XQlotG1EsuFfu9o6Z_!!6000000000408-0-tps-4032-3024.jpg" width="720"/>
 
 ## 5、大师的菜
 
