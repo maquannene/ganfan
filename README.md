@@ -19,3 +19,9 @@ Build site app,
 ```bash
 $ npm run build
 ```
+
+Deploy site app,
+
+```
+$ npm run deploy
+```
