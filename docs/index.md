@@ -1,7 +1,7 @@
 ---
 hero:
-  title: 干（gàn）饭
-  desc: 专注 干（gàn）饭，做一个干（gàn）饭人
+  title: 马奔的干（gàn）饭食堂
+  desc: 专注 干（gàn）饭，做一个 干（gàn）饭人
   actions:
     - text: 这就开干
       link: /2021
